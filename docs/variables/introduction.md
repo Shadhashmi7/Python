@@ -45,7 +45,7 @@ NAME = "Abhishek Veeramalla"
 
 **CamelCasing** - Usage is pretty much similar to underscore. It is mostly the choice of the programmer to choice one between underscore and camelCasing.
 
-There are many other appected ways of declaring variables in Python but above examples are most generally used conventions.
+There are many other accepted ways of declaring variables in Python but above examples are most generally used conventions.
 
 ## General guidelines on how to name your identifiers:
 
